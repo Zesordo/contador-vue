@@ -1,4 +1,4 @@
-# 03-fundamentos
+# Contador simple en vue
 
 ## Project setup
 ```
